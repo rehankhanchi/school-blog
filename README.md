@@ -1,2 +1,1 @@
 # School Blog
-# school-blog
